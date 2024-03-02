@@ -24,7 +24,7 @@ To use the task manager, run `python task_manager.py` from the command line. Fol
 - View your tasks
 - Edit tasks
 - Generate reports
-- display statistics
+- Display statistics
 - Exit
 
 ### Screenshots
