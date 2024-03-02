@@ -1,4 +1,4 @@
-# Task Manager Capstone Project
+# Capstone Project
 
 ## Description
 This project extends the functionality of a basic task manager application. 
